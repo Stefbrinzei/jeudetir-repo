@@ -40,11 +40,6 @@ let interval = setInterval(function showTarget(){
         container.innerHTML = "le jeu est terminé"
     }
 
-
-    
-
-
-
 }, 1000);
 
 }
